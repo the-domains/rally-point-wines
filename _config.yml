@@ -1,7 +1,7 @@
 name: Rally Point Wines
 favicon: null
-layout_spectrum: 0.22684081853367388
-typography_spectrum: 0.05452882032841444
+layout_spectrum: 0.50097
+typography_spectrum: 0.6673
 title: Rally Point Wines - Wine on a Mission
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.300887543708086
+    - '#78574e'
+    - '#ffffff'
+    - '#000000'
+    - '#aaaaaa'
+    - '#ff0000'
+  brandStrength: 0.875
   lightness: 0.8639339546207339
-  saturation: 0.5327690232079476
-  rhythmicContrast: 0.37569349771365523
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
