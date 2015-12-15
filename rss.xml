@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rally Point Wines - Wine on a Mission]]></title>
+        <description><![CDATA[Rally Point Wines - Wine on a Mission]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Dec 2015 20:32:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rally Point Wines]]></title>
+            <description><![CDATA[<article><h1>Rally Point Wines</h1><p>Site in Progress.</p></article>]]></description>
+            <link>undefinedrally-point-wines/index.html</link>
+            <guid isPermaLink="false">7649c020-1c71-4f6e-b3c1-d0874bec35ba</guid>
+            <pubDate>Tue, 15 Dec 2015 20:32:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
